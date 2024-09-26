@@ -23,7 +23,7 @@ export default function Home() {
       <div className="container">
         <header>
           <img src="https://camo.githubusercontent.com/84e61db3c78714dc2ef3b62401024754b77e9beacb5ffbe0fa3eb200cd944982/68747470733a2f2f74656c656772612e70682f66696c652f6538623433366335663839353838663035656432622e6a7067" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">balxzzy</h1>
+          <h1 className="nama">SanzMD</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Sumatera Selatan, Sekayu
           </p>
