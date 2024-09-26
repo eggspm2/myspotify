@@ -25,7 +25,7 @@ export default function Home() {
           <img src="https://camo.githubusercontent.com/84e61db3c78714dc2ef3b62401024754b77e9beacb5ffbe0fa3eb200cd944982/68747470733a2f2f74656c656772612e70682f66696c652f6538623433366335663839353838663035656432622e6a7067" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">balxzzy</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Sumate5 Selatan, Sekayu
+            <i className="fas fa-globe-asia"></i> Sumatera Selatan, Sekayu
           </p>
           <p className="bio">”Destroyer.”</p>
         </header>
@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             )}
             <iframe
-              src="https://open.spotify.com/playlist/49CD1JayymAVNK64zrQYbE"
+              src="https://open.spotify.com/embed/playlist/6e5psrTK5oyi4xFRCk4MRx"
               frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
